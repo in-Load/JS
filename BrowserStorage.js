@@ -1,6 +1,11 @@
 /**
  * Use browser storage
- * @updated 25.08.28
+ * @updated 25.09.13
+ * Copyright 2025 Hold'inCorp.
+ * Author: inLoad
+ * Licensed under the Apache License, Version 2.0
+ * http://www.apache.org/licenses/LICENSE-2.0
+ *
  * @see https://developer.mozilla.org/docs/Web/API/Web_Storage_API
  */
 class BrowserStorage {
